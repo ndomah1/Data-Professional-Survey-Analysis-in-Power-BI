@@ -1,6 +1,23 @@
 # Power BI Exploratory Analysis on Data Professionals Survey
 
-![Data Professional Survey Breakdown.jpg](Data_Professional_Survey_Breakdown.jpg)
+![Data Professional Survey Breakdown.jpg](https://github.com/ndomah1/Data-Professional-Survey-Analysis-in-Power-BI/blob/main/images/Data%20Professional%20Survey%20Breakdown.jpg)
+
+## Table of Contents
+- [Overview](#overview)
+- [Goals and Key Questions](#goals-and-key-questions)
+- [Dataset](#dataset)
+- [Data Cleaning and Transformation](#data-cleaning-and-transformation)
+- [Key Insights](#key-insights)
+  - [1. Salary Trends by Job Title](#1-salary-trends-by-job-title)
+  - [2. Programming Language Popularity](#2-programming-language-popularity)
+  - [3. Work-Life Balance & Salary Satisfaction](#3-work-life-balance--salary-satisfaction)
+  - [4. Geographic Breakdown of Respondents](#4-geographic-breakdown-of-respondents)
+  - [5. Difficulty Breaking Into Data Roles](#5-difficulty-breaking-into-data-roles)
+- [Power BI Dashboard](#power-bi-dashboard)
+- [Usage Instructions](#usage-instructions)
+- [Limitations](#limitations)
+- [Future Recommendations](#future-recommendations)
+
 
 ## Overview
 
@@ -72,7 +89,7 @@ The interactive **Power BI dashboard** includes:
 - **Participant Nationalities** (Tree Map for country-wise analysis)
 - **Difficulty of Breaking Into Data Roles** (Pie Chart for category breakdown)
 
-![Data Professional Survey Breakdown.jpg](Data_Professional_Survey_Breakdown.jpg)
+![Data Professional Survey Breakdown.jpg](https://github.com/ndomah1/Data-Professional-Survey-Analysis-in-Power-BI/blob/main/images/Data%20Professional%20Survey%20Breakdown.jpg)
 
 ## Usage Instructions
 
